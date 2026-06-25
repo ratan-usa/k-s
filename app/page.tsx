@@ -4,9 +4,9 @@ import HeroV2 from "./components/hero-v2";
 
 export default function Home() {
   return (
-    <div className="flex flex-col flex-1 items-center justify-center bg-black  dark:bg-black">
-      <Hero />
+    <div className="">
       <HeroV2/>
+      <Hero />
     </div>
   );
 }

@@ -14,7 +14,7 @@ export default function HeroV2() {
       {/* Radical Red Radial Glow */}
       <div className="absolute -bottom-48 -right-48 w-[600px] h-[600px] bg-[#b72121] blur-[150px] rounded-full opacity-15 pointer-events-none" />
 
-      <div className="container mx-auto px-4 sm:px-6 lg:px-8 relative z-10 py-16 lg:py-24">
+      <div className="w-full px-4 sm:px-6 lg:px-8 relative z-10 py-16 lg:py-24">
         
         {/* Upper Trust Badges */}
         <div className="flex flex-wrap gap-4 items-center mb-8 justify-center md:justify-start">
